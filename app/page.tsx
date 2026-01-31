@@ -374,7 +374,7 @@ export default function Home() {
                     </div>
                     <h3 className="text-4xl font-bold text-white mb-2">For Companies</h3>
                     <p className="text-zinc-400 mb-8 text-lg">Post jobs, verify your company, and find top talent effortlessly.</p>
-                    <a href="#" className="flex items-center justify-center w-full py-4 rounded-xl bg-white text-black font-bold text-xl hover:bg-gray-200 transition-colors">
+                    <a href="https://admin.placify.lol" className="flex items-center justify-center w-full py-4 rounded-xl bg-white text-black font-bold text-xl hover:bg-gray-200 transition-colors">
                         Hire Talent
                     </a>
                 </div>
@@ -400,7 +400,7 @@ export default function Home() {
                                 <span>Play Store</span>
                             </a>
                         </div>
-                        <a href="#" className="inline-block w-full py-4 rounded-xl border border-white/20 text-white font-bold text-xl hover:bg-white/10 transition-colors text-center">
+                        <a href="https://student.placify.lol" className="inline-block w-full py-4 rounded-xl border border-white/20 text-white font-bold text-xl hover:bg-white/10 transition-colors text-center">
                             Visit Website
                         </a>
                     </div>
